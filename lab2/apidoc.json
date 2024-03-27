@@ -1,0 +1,8 @@
+{
+  "name": "Users API",
+  "version": "1.0.0",
+  "description": "Users API description",
+  "title": "Items API",
+  "url": "http://localhost/index.php/products",
+  "sampleUrl": true
+}
